@@ -1,4 +1,4 @@
-/* Genel Stil */
+/* General */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -13,7 +13,7 @@ h1, h2, h3 {
     text-align: center;
 }
 
-/* Header ve Footer */
+/* Header and Footer */
 header, footer {
     background-color: #007acc;
     color: #fff;
@@ -25,7 +25,7 @@ footer p {
     margin: 0;
 }
 
-/* Hero Bölümü */
+
 .hero {
     text-align: center;
     padding: 20px;
@@ -40,7 +40,7 @@ footer p {
     margin-top: 20px;
 }
 
-/* Ek Görseller */
+/* Extra Images */
 .additional-images {
     padding: 20px;
     text-align: center;
@@ -66,7 +66,7 @@ footer p {
     transform: scale(1.1);
 }
 
-/* Form Stilleri */
+/* Form Styles */
 form {
     max-width: 400px;
     margin: 20px auto;
@@ -103,7 +103,7 @@ button:hover {
     background-color: #005f99;
 }
 
-/* Video Stili */
+/* Video Style */
 .video-section {
     text-align: center;
     padding: 20px;
@@ -118,7 +118,7 @@ button:hover {
 
 iframe {
     width: 100%;
-    height: 450px; /* Yükseklik değeri ihtiyaçlarınıza göre ayarlanabilir */
+    height: 450px; 
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
